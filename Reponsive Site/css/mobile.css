@@ -1,0 +1,20 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    html {
+        background: #16222A;
+        background: -webkit-linear-gradient(to bottom, #3A6073, #16222A);
+        background: linear-gradient(to bottom, #3A6073, #16222A);
+
+    }
+
+    .grid-container {
+        background-color: #129cf3;
+    }
+
+    .img-class {
+        height: 250px;
+    }
+
+    .miami_desc {
+        text-align: left;
+    }
+}

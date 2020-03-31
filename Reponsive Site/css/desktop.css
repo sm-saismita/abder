@@ -1,0 +1,38 @@
+html {
+    background: #232526;
+    background: -webkit-linear-gradient(to bottom, #414345, #232526);
+    background: linear-gradient(to bottom, #414345, #232526);
+    color: white;
+}
+
+body {
+    min-height: 100vh;
+    text-align: center;
+}
+
+a {
+color: white;
+text-decoration: none;
+  }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+.title {
+    text-align: center;
+    color: white;
+}
+
+.img-class {
+    height: 350px;
+}
+
+.miami_desc {
+    text-align: justify;
+}
